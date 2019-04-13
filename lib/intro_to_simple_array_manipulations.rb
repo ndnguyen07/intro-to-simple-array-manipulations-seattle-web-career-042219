@@ -7,3 +7,6 @@ def shift(array,string)
 end
 
 def pop (array)
+  array.pop
+end
+
