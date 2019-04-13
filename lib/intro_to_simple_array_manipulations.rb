@@ -1,5 +1,5 @@
 def push(array,string)
-  array.push string
+  array.push(string)
 end
 
 def shift(array,string)
