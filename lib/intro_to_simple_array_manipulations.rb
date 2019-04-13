@@ -6,3 +6,4 @@ def shift(array,string)
   array.shift string
 end
 
+def 
