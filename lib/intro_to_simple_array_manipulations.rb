@@ -3,7 +3,7 @@ def push(array,string)
 end
 
 def shift(array,string)
-  array.shift string
+  array.unshift string
 end
 
-def 
+def pop (array)
