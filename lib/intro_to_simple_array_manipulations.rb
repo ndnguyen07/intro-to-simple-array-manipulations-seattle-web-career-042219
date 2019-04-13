@@ -6,7 +6,8 @@ def shift(array,string)
   array.unshift string
 end
 
-def pop (array)
+def pop(array)
   array.pop
 end
 
+def pop_args(array)
