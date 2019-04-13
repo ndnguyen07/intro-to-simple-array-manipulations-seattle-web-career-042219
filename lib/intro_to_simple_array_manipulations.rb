@@ -11,3 +11,5 @@ def pop(array)
 end
 
 def pop_args(array)
+  array.pop(3)
+end
