@@ -1,15 +1,15 @@
-def push(array,string)
+def using_push(array,string)
   array.push(string)
 end
 
-def shift(array,string)
+def using_unshift(array,string)
   array.unshift(string)
 end
 
-def pop(array)
+def using_pop(array)
   array.pop
 end
 
-def pop_args(array)
+def pop_with_arge(array)
   array.pop(3)
 end
